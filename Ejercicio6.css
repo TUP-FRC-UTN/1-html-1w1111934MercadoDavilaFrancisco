@@ -1,0 +1,21 @@
+table th{
+   width: 30%;
+}
+ .c2 {
+
+ background-color: red;
+ }
+ .c3 {
+
+    background-color: green;
+    }
+
+ .c4 {
+     background-color: blue;
+        }
+
+#main-container{
+    margin: 200px  auto;
+width: 200px;
+
+}
